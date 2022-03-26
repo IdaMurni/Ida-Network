@@ -4,6 +4,15 @@
 *.dll
 *.so
 *.dylib
+current
+berlin/keystore
+berlin/password.txt
+frankfurt/keystore
+frankfurt/password.txt
+yogyakarta/keystore
+yogyakarta/password.txt
+boot.key
+.DS_Store
 
 # Test binary, built with `go test -c`
 *.test

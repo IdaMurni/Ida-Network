@@ -1,0 +1,20 @@
+=============== Mar 26, 2022 (CET) ===============
+12:08:50.543842 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:08:50.575795 db@open opening
+12:08:50.576814 version@stat F·[] S·0B[] Sc·[]
+12:08:50.590361 db@janitor F·2 G·0
+12:08:50.590474 db@open done T·14.597387ms
+12:08:50.613061 db@close closing
+12:08:50.613371 db@close done T·306.576µs
+=============== Mar 26, 2022 (CET) ===============
+12:15:19.689825 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:15:19.690598 version@stat F·[] S·0B[] Sc·[]
+12:15:19.690654 db@open opening
+12:15:19.690767 journal@recovery F·1
+12:15:19.693792 journal@recovery recovering @1
+12:15:19.701064 memdb@flush created L0@2 N·627 S·50KiB "\x02d\xfc..\x19Ba,v434":"\xfe\x88\xcf..H\xef\xcc,v366"
+12:15:19.704336 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+12:15:19.756483 db@janitor F·3 G·0
+12:15:19.756596 db@open done T·65.906695ms
+12:26:27.041140 db@close closing
+12:26:27.041572 db@close done T·429.306µs
